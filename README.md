@@ -26,3 +26,10 @@ Welcome to the Revenue Dashboard project! This comprehensive tool was developed 
 This dashboard is highly relevant for professionals and organizations seeking to optimize their financial strategies and operational efficiency. By providing a detailed and interactive view of key financial metrics and business processes, it empowers users to make data-driven decisions that drive growth and improve business outcomes.
 
 The project demonstrates the power of Excel in creating sophisticated and impactful business intelligence tools, showcasing how well-designed data visualizations can significantly enhance decision-making processes.
+
+
+## Licensing
+
+This project is licensed under a proprietary license. You may not use, modify, distribute, or sell this software without explicit permission from the author. For more details, please refer to the LICENSE file in this repository.
+
+Unauthorized use or distribution of this software is prohibited.
